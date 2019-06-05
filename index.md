@@ -17,8 +17,8 @@ American Literature, Southern Studies, Religious Studies, Rhetoric and Compositi
 
 Ph.D. English, University of South Carolina
 
-<div style="text-align:left">
-<img src ="/icons/IMG_0173.JPG" width = "33%" />
+<div>
+<img src ="/icons/IMG_0173.JPG" width = "33%" align="left" />
 </div>
 
 [[<i class="fa fa-envelope-o"></i>](mailto:odomenglish@gmail.com){: .awe-ico }]
