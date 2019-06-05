@@ -3,7 +3,7 @@ title: Michael Odom
 layout: default
 ---
 
-### Honors & Awards 
+## Honors & Awards 
 
 * PSC – CUNY Research Award
 * Russell J. and Dorothy S. Bilinski Fellow
