@@ -2,10 +2,6 @@
 title:
 layout: default
 ---
-<!--<div style="text-align:center">
-<img src ="/icons/logo2017.png" width = "20%" />
-</div>
-<br>-->
  
 ## Michael Odom
 Associate Professor of English   
@@ -30,4 +26,8 @@ Ph.D. English, University of South Carolina
 [<i class="fa fa-info"></i>](/research/){: .awe-ico } [Research](/research/)    
 [<i class="fa fa-info"></i>](/awards/){: .awe-ico } [Honors & Awards](/awards/)    
 
+------
 
+<div style="text-align:center">
+<img src ="/icons/IMG_0173.JPG" width = "20%" />
+</div>
