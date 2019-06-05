@@ -9,10 +9,10 @@ Borough of Manhattan Community College
   <div>
     <img src="/icons/IMG_0173.JPG" width = "25%" float="left"/>
   </div>
-  <div class="text">
-    <h3> Expertise </h3>
+  <div>
+    <strong> Expertise </strong>
     <p> American Literature, Southern Studies, Religious Studies, Rhetoric and Composition. </p>
-    <h3> Education </h3>
+    <strong> Education </strong>
     <p>Ph.D. English, University of South Carolina</p>
   </div>
 </div>
