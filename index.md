@@ -11,15 +11,14 @@ layout: default
 Associate Professor of English   
 
 City University of New York    
-Borough of Manhattan Community College
+Borough of Manhattan Community College    
+
+Ph.D. English, University of South Carolina
 
 ### Expertise
 
 American Literature, Southern Studies, Religious Studies, Rhetoric and Composition.
 
-### Education
-
-Ph.D. English, University of South Carolina
 
 ------
 
