@@ -1,14 +1,14 @@
 ---
-title:
+title: Michael Odom
 layout: default
 ---
 <!--<div style="text-align:center">
 <img src ="/icons/logo2017.png" width = "20%" />
 </div>
 <br>-->
-
-# Michael Odom    
+ 
 Associate Professor of English   
+
 City University of New York    
 Borough of Manhattan Community College
 
