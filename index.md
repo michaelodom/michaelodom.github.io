@@ -6,7 +6,7 @@ City University of New York
 Borough of Manhattan Community College    
 
 
-<div style="overflow: hidden">
+<div>
 <img src ="/icons/IMG_0173.JPG" width = "25%" float="left" /> 
 <h3> Expertise </h3>
 
