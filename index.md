@@ -7,16 +7,16 @@ Borough of Manhattan Community College
 
 
 <div style="text-align:left">
-<img src="/icons/IMG_0173.JPG" width = "25%" align="left"/>
+<img src="/icons/IMG_0173.JPG" width = "25%" align="left" padding: "5px"/>
 <strong> Expertise </strong>
 <p> American Literature, Southern Studies, Religious Studies, Rhetoric and Composition. </p>
 <strong> Education </strong>
 <p>Ph.D. English, University of South Carolina</p>
+<br>
 </div>    
 
 
 [[<i class="fa fa-envelope-o"></i>](mailto:odomenglish@gmail.com){: .awe-ico }]
-
 [<i class="fa fa-info"></i>](/courses/){: .awe-ico } [Courses](/courses/)   
 [<i class="fa fa-info"></i>](/research/){: .awe-ico } [Research](/research/)    
 [<i class="fa fa-info"></i>](/awards/){: .awe-ico } [Honors & Awards](/awards/)    
