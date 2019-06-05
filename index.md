@@ -5,8 +5,9 @@ Associate Professor of English
 City University of New York    
 Borough of Manhattan Community College    
 
-<div style="clear: none !important;">
-<img src="/icons/IMG_0173.JPG" width = "25%" float="left"/>
+
+<div style="text-align:left">
+<img src="/icons/IMG_0173.JPG" width = "25%" align="left"/>
 <strong> Expertise </strong>
 <p> American Literature, Southern Studies, Religious Studies, Rhetoric and Composition. </p>
 <strong> Education </strong>
