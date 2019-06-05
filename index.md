@@ -1,8 +1,5 @@
----
-title: Michael Odom
-layout: default
----
- 
+## Michael Odom
+
 <div style="overflow: hidden">
 <img src ="/icons/IMG_0173.JPG" width = "25%" align="left" /> <br>
 </div>    
