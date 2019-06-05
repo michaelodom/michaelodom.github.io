@@ -16,7 +16,7 @@ Borough of Manhattan Community College
 </div>    
 
 
-[[<i class="fa fa-envelope-o"></i>](mailto:odomenglish@gmail.com){: .awe-ico }]
+[[<i class="fa fa-envelope-o"></i>](mailto:odomenglish@gmail.com){: .awe-ico }]     
 [<i class="fa fa-info"></i>](/courses/){: .awe-ico } [Courses](/courses/)   
 [<i class="fa fa-info"></i>](/research/){: .awe-ico } [Research](/research/)    
 [<i class="fa fa-info"></i>](/awards/){: .awe-ico } [Honors & Awards](/awards/)    
