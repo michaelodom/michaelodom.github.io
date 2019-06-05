@@ -1,9 +1,7 @@
 ---
-title:
+title: Michael Odom
 layout: default
 ---
-
-## Michael Odom
 
 ### Courses 
 
