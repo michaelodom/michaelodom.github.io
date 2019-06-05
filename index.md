@@ -1,22 +1,21 @@
 ## Michael Odom
 
-<div style="overflow: hidden">
-<img src ="/icons/IMG_0173.JPG" width = "25%" align="left" /> <br>
-</div>    
-
 Associate Professor of English   
 
 City University of New York    
 Borough of Manhattan Community College    
 
-### Expertise
+
+<div style="overflow: hidden">
+<img src ="/icons/IMG_0173.JPG" width = "25%" float="left" /> 
+<h3> Expertise </h3>
 
 American Literature, Southern Studies, Religious Studies, Rhetoric and Composition.
 
-### Education
+<h3> Education </h3>
 
 Ph.D. English, University of South Carolina
-
+</div>    
 
 [[<i class="fa fa-envelope-o"></i>](mailto:odomenglish@gmail.com){: .awe-ico }]
 
