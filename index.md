@@ -6,7 +6,6 @@ City University of New York
 Borough of Manhattan Community College    
 
 
-<br>
 <div style="text-align:left">
 <img style="margin: 0px 15px 15px 0px;" src="/icons/IMG_0173.JPG" width = "25%" align="left"/>
 <strong>Expertise</strong>
@@ -19,9 +18,7 @@ Borough of Manhattan Community College
 
 
 <br>
-[[<i class="fa fa-envelope-o"></i>](mailto:odomenglish@gmail.com){: .awe-ico }]    
 [<i class="fa fa-info"></i>](/courses/){: .awe-ico } [Courses](/courses/)   
 [<i class="fa fa-info"></i>](/research/){: .awe-ico } [Research](/research/)    
 [<i class="fa fa-info"></i>](/awards/){: .awe-ico } [Honors & Awards](/awards/)    
- 
- 
+[[<i class="fa fa-envelope-o"></i>](mailto:odomenglish@gmail.com){: .awe-ico }]     
