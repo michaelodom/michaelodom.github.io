@@ -3,10 +3,7 @@ title: Michael Odom
 layout: default
 ---
 
-## Research
-
-### Publications
-
+## Publications
 
 * Religious Satire and Narrative Ambiguity in the Known World, South Atlantic Review (2019) [(pdf)](https://faculty.bmcc.cuny.edu/faculty/upload/SAR.pdf)
 
