@@ -6,16 +6,18 @@ City University of New York
 Borough of Manhattan Community College    
 
 
-<div>
-<img src ="/icons/IMG_0173.JPG" width = "25%" float="left" /> 
-<h3> Expertise </h3>
-
-American Literature, Southern Studies, Religious Studies, Rhetoric and Composition.
-
-<h3> Education </h3>
-
-Ph.D. English, University of South Carolina
 </div>    
+<div class="container">
+  <div>
+    <img src="/icons/IMG_0173.JPG" width = "25%" float="left"/>
+  </div>
+  <div class="text">
+    <h3> Expertise </h3>
+    <p> American Literature, Southern Studies, Religious Studies, Rhetoric and Composition. </p>
+    <h3> Education </h3>
+    <p>Ph.D. English, University of South Carolina</p>
+  </div>
+</div>
 
 [[<i class="fa fa-envelope-o"></i>](mailto:odomenglish@gmail.com){: .awe-ico }]
 
