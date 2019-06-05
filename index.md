@@ -1,0 +1,28 @@
+---
+title:
+layout: default
+---
+<!--<div style="text-align:center">
+<img src ="/icons/logo2017.png" width = "20%" />
+</div>
+<br>-->
+
+# Michael Odom
+
+Assistant professor of English at BMCC.
+
+### Expertise
+
+American Literature, Southern Studies, Religious Studies, Rhetoric and Composition.
+
+### Education
+
+Ph.D. English, University of South Carolina
+
+[[<i class="fa fa-envelope-o"></i>](mailto:modom@bmcc.cuny.edu){: .awe-ico }]
+
+
+[<i class="fa fa-info"></i>](/courses/){: .awe-ico } [Courses](/courses/)   
+[<i class="fa fa-info"></i>](/research/){: .awe-ico } [Research](/research/)     
+
+
