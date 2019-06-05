@@ -1,20 +1,16 @@
 ---
-title:
+title: Michael Odom
 layout: default
 ---
  
-## Michael Odom
-
-<div>
-<img src ="/icons/IMG_0173.JPG" width = "33%" align="left" /> <br>
+<div style="overflow: hidden">
+<img src ="/icons/IMG_0173.JPG" width = "25%" align="left" /> <br>
+</div>    
 
 Associate Professor of English   
 
 City University of New York    
 Borough of Manhattan Community College    
-</div>    
-
-
 
 ### Expertise
 
