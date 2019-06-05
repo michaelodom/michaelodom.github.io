@@ -17,8 +17,7 @@ American Literature, Southern Studies, Religious Studies, Rhetoric and Compositi
 
 Ph.D. English, University of South Carolina
 
-<!-- <div style="text-align:center"> -->
-<div>
+<div style="text-align:left">
 <img src ="/icons/IMG_0173.JPG" width = "33%" />
 </div>
 
