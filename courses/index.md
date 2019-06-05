@@ -1,9 +1,11 @@
 ---
-title: Michael Odom
+title:
 layout: default
 ---
 
-## Courses 
+## Michael Odom
+
+### Courses 
 
 *English Composition (ENG 101)*
 
