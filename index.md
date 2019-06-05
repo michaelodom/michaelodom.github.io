@@ -19,8 +19,10 @@ Ph.D. English, University of South Carolina
 
 <div>
 <img src ="/icons/IMG_0173.JPG" width = "33%" align="left" />
-</div>    
 <br>
+</div>    
+
+-----
 
 [<i class="fa fa-envelope-o"></i>](mailto:odomenglish@gmail.com){: .awe-ico }
 
