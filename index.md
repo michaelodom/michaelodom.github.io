@@ -1,5 +1,5 @@
 ---
-title: Michael Odom
+title:
 layout: default
 ---
 <!--<div style="text-align:center">
@@ -7,6 +7,7 @@ layout: default
 </div>
 <br>-->
  
+## Michael Odom
 Associate Professor of English   
 
 City University of New York    
