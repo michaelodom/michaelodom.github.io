@@ -12,7 +12,6 @@ Borough of Manhattan Community College
 <p style="font-size: 90%">American Literature, Southern Studies, Religious Studies, Rhetoric and Composition. </p>
 <strong>Education</strong>
 <p style="font-size: 90%">Ph.D. English, University of South Carolina</p>
-<br>
 </div>    
 
 
