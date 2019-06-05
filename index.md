@@ -8,10 +8,10 @@ Borough of Manhattan Community College
 
 <div style="text-align:left">
 <img style="align: left; margin: 0px 15px 15px 0px;" src="/icons/IMG_0173.JPG" width = "25%"/>
-<p><strong>Expertise</strong>
-American Literature, Southern Studies, Religious Studies, Rhetoric and Composition.    
+<strong>Expertise</strong>
+<p>American Literature, Southern Studies, Religious Studies, Rhetoric and Composition.</p>
 <strong>Education</strong>
-Ph.D. English, University of South Carolina</p>
+<p>Ph.D. English, University of South Carolina</p>
 </div>    
 
 
