@@ -9,7 +9,7 @@ layout: default
 
 # Michael Odom
 
-Associate professor of English    
+Associate Professor of English    
 City University of New York    
 Borough of Manhattan Community College
 
