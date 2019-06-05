@@ -5,8 +5,6 @@ Associate Professor of English
 City University of New York    
 Borough of Manhattan Community College    
 
-
-</div>    
 <div class="container">
   <div>
     <img src="/icons/IMG_0173.JPG" width = "25%" float="left"/>
