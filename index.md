@@ -8,8 +8,6 @@ Borough of Manhattan Community College
 <div class="container">
   <div>
     <img src="/icons/IMG_0173.JPG" width = "25%" float="left"/>
-  </div>
-  <div>
     <strong> Expertise </strong>
     <p> American Literature, Southern Studies, Religious Studies, Rhetoric and Composition. </p>
     <strong> Education </strong>
