@@ -9,7 +9,9 @@ layout: default
 
 # Michael Odom
 
-Associate professor of English at BMCC.
+Associate professor of English    
+City University of New York    
+Borough of Manhattan Community College
 
 ### Expertise
 
@@ -21,7 +23,7 @@ Ph.D. English, University of South Carolina
 
 ------
 
-[[<i class="fa fa-envelope-o"></i>](mailto:modom@bmcc.cuny.edu){: .awe-ico }]
+[[<i class="fa fa-envelope-o"></i>](mailto:odomenglish@gmail.com){: .awe-ico }]
 
 [<i class="fa fa-info"></i>](/courses/){: .awe-ico } [Courses](/courses/)   
 [<i class="fa fa-info"></i>](/research/){: .awe-ico } [Research](/research/)     
